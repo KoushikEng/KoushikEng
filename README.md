@@ -2,7 +2,7 @@
 
 Systems engineer • ex-founder • builder
 
-I like understanding systems end-to-end — from hardware and firmware to backend software and real users.
+I like understanding systems end-to-end, from hardware and firmware to backend software and real users.
 
 ---
 
