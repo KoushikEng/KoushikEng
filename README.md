@@ -7,7 +7,7 @@ I like understanding systems end-to-end, from hardware and firmware to backend s
 ---
 
 ### Background
-- Ex-founder of an embedded / IoT startup (acquired, NDA)
+- Ex-founder of an AI embedded / IoT startup (acquired, NDA)
 - Built and shipped production systems under real constraints
 
 ---
