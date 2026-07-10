@@ -21,9 +21,9 @@ I like understanding systems end-to-end, from hardware and firmware to backend s
 ---
 
 ### Stack
-C • Python • JavaScript • TensorFlow • LangChain • LangGraph 
+C • Python • JavaScript • LangChain • LangGraph • Linux
 
-Linux • MQTT • REST • FastAPI • Node.js • Express.js • React.js
+MQTT • REST • FastAPI • Node.js • Express.js • React.js • Next.js
 
 ---
 
