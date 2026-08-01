@@ -1,31 +1,17 @@
 # Koushik Ghosh
 
-Systems engineer • ex-founder • builder
+Building weird things that occasionally become useful.
 
-I like understanding systems end-to-end, from hardware and firmware to backend software and real users.
+Currently somewhere between AI agents, trading systems, embedded hardware, and asking *"what if we automate that too?"*
 
----
+* ex-founder (startup acquired, NDA 🤐)
+* I like turning caffeine into side projects.
+* I trust production more than PowerPoint.
+* My bug reports usually start with "Interesting..."
+* I only debug in production. *(I wish this were sarcasm.)*
 
-### Background
-- Ex-founder of an AI embedded / IoT startup (acquired, NDA)
-- Built and shipped production systems under real constraints
+**Current toolbox**
 
----
+`Python` `C` `FastAPI` `React` `Linux` `LangGraph` `PostgreSQL`
 
-### Focus
-- End-to-end systems
-- Backend APIs & control logic
-- AI agents (from first principles)
-- CLI-first, automation-friendly tools
-
----
-
-### Stack
-C • Python • JavaScript • LangChain • LangGraph • Linux
-
-MQTT • REST • FastAPI • Node.js • Express.js • React.js • Next.js
-
----
-
-I value clarity, ownership, and fundamentals that compound.
-
+*Still believes reading docs is faster than watching a 37-minute YouTube tutorial.*
