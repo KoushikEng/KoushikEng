@@ -2,7 +2,7 @@
 
 Building weird things that occasionally become useful.
 
-Currently somewhere between AI agents, trading systems, embedded hardware, and asking *"what if we automate that too?"*
+Currently somewhere between AI agents, trading systems, and asking *"what if we automate that too?"*
 
 * ex-founder (startup acquired, NDA 🤐)
 * I like turning caffeine into side projects.
