@@ -4,7 +4,7 @@ Building weird things that occasionally become useful.
 
 Currently somewhere between AI agents, trading systems, and asking *"what if we automate that too?"*
 
-* ex-founder (startup acquired, NDA 🤐)
+* Solutions Consultant (Independent).
 * I like turning caffeine into side projects.
 * I trust production more than PowerPoint.
 * My bug reports usually start with "Interesting..."
